@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68613535-6aad-43c5-a0da-387d36385c6a" name="Changes" comment="refactored djikstra and bellman ford to add shortest path as a return" />
+    <list default="true" id="68613535-6aad-43c5-a0da-387d36385c6a" name="Changes" comment="rename">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Partie 1/Plus court chemin/Bonus/Ford-Fulkerson.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Partie 1/Plus court chemin/Bonus/Ford-Fulkerson.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,23 +47,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/boula/Desktop/TheorieGraph/Partie 1/Plus court chemin",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/boula/Desktop/TheorieGraph/Partie 1/Plus court chemin/Bonus&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\boula\Desktop\TheorieGraph\Partie 1\Plus court chemin\Bonus" />
       <recent name="C:\Users\boula\Desktop\TheorieGraph\Partie 1\Plus court chemin" />
       <recent name="C:\Users\boula\Desktop\TheorieGraph\Partie 1\Arbre couvrante minimal" />
     </key>
@@ -89,7 +93,10 @@
       <workItem from="1716899071261" duration="2091000" />
       <workItem from="1716904650121" duration="649000" />
       <workItem from="1716905454046" duration="438000" />
-      <workItem from="1716905925459" duration="3525000" />
+      <workItem from="1716905925459" duration="3831000" />
+      <workItem from="1716909882960" duration="1305000" />
+      <workItem from="1716915886500" duration="5000" />
+      <workItem from="1716915955543" duration="53000" />
     </task>
     <task id="LOCAL-00001" summary="implemented kruskal algorithme">
       <option name="closed" value="true" />
@@ -131,7 +138,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716909460757</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="rename">
+      <option name="closed" value="true" />
+      <created>1716909580175</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1716909580175</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,6 +159,7 @@
     <MESSAGE value="implemented Bellman algorithme" />
     <MESSAGE value="implemented Djikstra algorithme" />
     <MESSAGE value="refactored djikstra and bellman ford to add shortest path as a return" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactored djikstra and bellman ford to add shortest path as a return" />
+    <MESSAGE value="rename" />
+    <option name="LAST_COMMIT_MESSAGE" value="rename" />
   </component>
 </project>
